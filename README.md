@@ -8,7 +8,7 @@ This dashboard shows data collected by Speedtest Tracker (https://github.com/hen
 InfluxDBv1 client connect to InfluxDBv2
 
 1. create bucket in InfluxDBv2
-2.1 create or use exist API token (ALL ACCESS) for create dbv1 and auth .  
+2.1 create or use exist API token (ALL ACCESS) for create dbv1 and auth .
 2.2 create API token (read/write) for this bucket to use with Grafana.
 3. Enter in Console of InfluxDBv2
 
